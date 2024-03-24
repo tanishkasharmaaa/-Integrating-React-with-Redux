@@ -1,4 +1,4 @@
-# Learing from this project
+# Learnings from this project
 
 # Redux Integration: 
 Integrating Redux with a React application allows for centralized state management, making it easier to manage complex state across multiple components.
